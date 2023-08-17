@@ -1,8 +1,11 @@
 ![logo](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Pal</h1>
 <h3 align="center">A geek.</h3>
-<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<center>
+  <img align="center" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+</center>
 
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagetin&label=Profile%20views&color=0e75b6&style=flat" alt="adityagetin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityagetin" alt="adityagetin" /></a> </p>
